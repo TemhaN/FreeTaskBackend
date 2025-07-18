@@ -42,7 +42,7 @@
 
 ### 1. Клонируй проект
 ```bash
-git clone https://github.com/YourUsername/FreeTaskBackend.git
+git clone https://github.com/TemhaN/FreeTaskBackend.git
 cd FreeTaskBackend
 ````
 
